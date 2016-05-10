@@ -1152,7 +1152,7 @@ public class ProcessActivity extends Activity {
     };
 
 
-    /*********??????????****
+    /*************
      **********************
      private TextWatcher watcher = new TextWatcher() {
 
@@ -1239,7 +1239,7 @@ public class ProcessActivity extends Activity {
     @Override
     protected void onResume() {
         /**
-         * ?????????
+         *
          */
         if(getRequestedOrientation()!=ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE){
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
