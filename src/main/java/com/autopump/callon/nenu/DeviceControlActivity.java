@@ -402,14 +402,7 @@ public class DeviceControlActivity extends Activity {
                         characteristic_write.setValue(writev);
                         characteristic_write.setWriteType(BluetoothGattCharacteristic.WRITE_TYPE_NO_RESPONSE);
                         mBluetoothLeService.writeCharacteristic(characteristic_write);
-	                    /*
-	                    writev[0] = (byte)1;
-	                    characteristic_write.setValue(writev);
-	                    mBluetoothLeService.writeCharacteristic(characteristic_write);
-
-	                    writev[0] = (byte)2;
-	                    characteristic_write.setValue(writev);
-	                    mBluetoothLeService.writeCharacteristic(characteristic_write);*/
+	                   
                     }
                     if ((charaProp | BluetoothGattCharacteristic.PROPERTY_READ) > 0) {
                         // If there is an active notification on a characteristic, clear

@@ -210,11 +210,7 @@ public class ProcessActivity extends Activity {
                         }
 
 
-	                	/*
-	                	for(int i = 0;i<15;i++){
-	                		Log.d(TAG, "is:" + writev[i]);
-	                	}
-	                	*/
+
                         mForceStop = true;
                         characteristic_write.setValue(writev);
                         characteristic_write.setWriteType(BluetoothGattCharacteristic.WRITE_TYPE_NO_RESPONSE);
@@ -352,21 +348,9 @@ public class ProcessActivity extends Activity {
                         startButton.setImageResource(R.mipmap.button_stop);
                         mForceStop = false;
 
-	                    /*
-	                    writev[0] = (byte)1;
-	                    characteristic_write.setValue(writev);
-	                    mBluetoothLeService.writeCharacteristic(characteristic_write);
 
-	                    writev[0] = (byte)2;
-	                    characteristic_write.setValue(writev);
-	                    mBluetoothLeService.writeCharacteristic(characteristic_write);*/
                     }
-	                 /*
-	                if(mBtnstate == false && mRunstate == true){
-	                	startButton.setImageResource(R.drawable.button_start);
-	                	mBtnstate = true;
-	                }
-	                else */
+
 
                     if ((charaProp | BluetoothGattCharacteristic.PROPERTY_NOTIFY) > 0) {
                         mNotifyCharacteristic = characteristic;
