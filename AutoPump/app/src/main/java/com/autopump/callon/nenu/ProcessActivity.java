@@ -36,10 +36,10 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 
+import com.zhy.autolayout.AutoLayoutActivity;
 
 
-
-public class ProcessActivity extends Activity {
+public class ProcessActivity extends AutoLayoutActivity {
     private final static String TAG = ProcessActivity.class.getSimpleName();
     private static final int SIMPLEPROFILE_CHAR6_LEN = 16;
     public static final String EXTRAS_SYRINGE_VALUE = "SYRINGE_VALUE";

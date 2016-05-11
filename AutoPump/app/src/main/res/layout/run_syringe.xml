@@ -89,7 +89,7 @@
                 android:id="@+id/RoundProgressBar01"
                 android:layout_width="wrap_content"
                 android:layout_height="100dp"
-                android:layout_marginLeft="@dimen/y75"
+                android:layout_marginLeft="300px"
                 android:layout_marginTop="30dip"
                 android:background="#00000000"
                 android:progress="0"
@@ -98,8 +98,9 @@
             <com.autopump.callon.nenu.RoundProgressBarWidthNumber
                 android:id="@+id/RoundProgressBar02"
                 android:layout_width="wrap_content"
-                android:layout_height="100dp"
-                android:layout_marginLeft="@dimen/y65"
+                android:layout_height="120dp"
+                android:layout_marginLeft="160px"
+                android:layout_toRightOf="@id/RoundProgressBar01"
                 android:layout_marginTop="30dip"
                 android:background="#00000000"
                 android:progress="0"
@@ -108,8 +109,9 @@
             <com.autopump.callon.nenu.RoundProgressBarWidthNumber
                 android:id="@+id/RoundProgressBar03"
                 android:layout_width="wrap_content"
-                android:layout_height="100dp"
-                android:layout_marginLeft="@dimen/y65"
+                android:layout_height="120dp"
+                android:layout_marginLeft="160px"
+                android:layout_toRightOf="@id/RoundProgressBar02"
                 android:layout_marginTop="30dip"
                 android:background="#00000000"
                 android:progress="0"
@@ -123,7 +125,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentLeft="true"
             android:layout_marginBottom="15dp"
-            android:layout_marginLeft="21dp"
+            android:layout_marginLeft="80px"
             android:background="#00000000"
             android:contentDescription="@string/ib_description1"
             android:src="@mipmap/button_return" />
@@ -135,7 +137,7 @@
             android:layout_toRightOf="@+id/Button_return"
             android:layout_alignParentBottom="true"
             android:layout_marginBottom="15dp"
-            android:layout_marginLeft="220dp"
+            android:layout_marginLeft="430px"
             android:background="#00000000"
             android:contentDescription="@string/ib_description1"
             android:src="@mipmap/wash" />
@@ -146,7 +148,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
             android:layout_alignTop="@+id/Button_return"
-            android:layout_marginRight="15dp"
+            android:layout_marginRight="80px"
             android:background="#00000000"
             android:contentDescription="@string/ib_description1"
             android:src="@mipmap/button_start" />
@@ -156,7 +158,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/linearLayout1"
-            android:layout_marginLeft="@dimen/y80"
+            android:layout_marginLeft="320px"
             android:layout_marginTop="26dp"
             android:textColor="#ff2903FC"
             android:text="@string/StrDiluent" />
@@ -166,7 +168,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignTop="@+id/textView1"
-            android:layout_marginLeft="@dimen/y75"
+            android:layout_marginLeft="195px"
             android:layout_toRightOf="@id/textView1"
             android:textColor="#ffF53B03"
             android:text="@string/StrSample" />
@@ -177,7 +179,7 @@
             android:layout_height="wrap_content"
             android:layout_alignBottom="@+id/textView2"
             android:layout_toRightOf="@+id/textView2"
-            android:layout_marginLeft="@dimen/y75"
+            android:layout_marginLeft="195px"
             android:textColor="#00cc00"
             android:text="@string/StrInjection" />
 

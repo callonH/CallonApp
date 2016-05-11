@@ -1,10 +1,30 @@
 [
     {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/program.png",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-mdpi/program.png"
+    },
+    {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher0.png",
         "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-mdpi/ic_launcher0.png"
     },
     {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/speed.png",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-mdpi/speed.png"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/needle_tubing.png",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-mdpi/needle_tubing.png"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/syringe.png",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-mdpi/syringe.png"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/edit.png",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-mdpi/edit.png"
     }
 ]

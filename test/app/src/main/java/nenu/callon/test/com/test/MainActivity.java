@@ -1,9 +1,10 @@
 package nenu.callon.test.com.test;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.zhy.autolayout.AutoLayoutActivity;
+
+public class MainActivity extends AutoLayoutActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
