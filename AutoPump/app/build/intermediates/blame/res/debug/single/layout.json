@@ -16,12 +16,12 @@
         "source": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
-        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/layout/gatt_services_characteristics.xml"
-    },
-    {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/layout/gatt_services_characteristics.xml"
     },
     {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
@@ -128,16 +128,16 @@
         "source": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
         "source": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",

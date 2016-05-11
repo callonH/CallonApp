@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/release/menu/gatt_services.xml",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/menu/gatt_services.xml"
+    }
+]

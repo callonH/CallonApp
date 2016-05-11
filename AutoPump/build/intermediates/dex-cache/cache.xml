@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.3.0_487d53cbfdb38afacb8bb08ee7a61141562d973b.jar" />
+    </item>
+    <item
+        jar="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.3.0_615f8b4d388aaaafb8da82f360a4d85cb2134e51.jar" />
+    </item>
+    <item
+        jar="/Users/callon/Downloads/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/pre-dexed/release/support-annotations-23.3.0_02e3054ac66ed516566a4a717b1245d08ee97cc1.jar" />
+    </item>
+    <item
+        jar="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.3.0_d55359fd39ff2a8fbf7f6a09f8671d776ce26f06.jar" />
+    </item>
+    <item
+        jar="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/pre-dexed/release/internal_impl-23.3.0_75bc39c4084caa06ebc3b573526f59f1cf96c002.jar" />
+    </item>
+    <item
+        jar="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.3.0_e8fae093e6f722426e9f18c9a5da89ae901c1c44.jar" />
+    </item>
+
+</items>

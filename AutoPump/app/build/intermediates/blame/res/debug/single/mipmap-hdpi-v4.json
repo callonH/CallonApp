@@ -12,12 +12,12 @@
         "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-hdpi/button_stop.png"
     },
     {
-        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/edit_df.png",
-        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-hdpi/edit_df.png"
-    },
-    {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/syringe.png",
         "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-hdpi/syringe.png"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/edit_df.png",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-hdpi/edit_df.png"
     },
     {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
@@ -36,12 +36,12 @@
         "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-hdpi/edit_auto.png"
     },
     {
-        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/program.png",
-        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-hdpi/program.png"
-    },
-    {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/edit_ss.png",
         "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-hdpi/edit_ss.png"
+    },
+    {
+        "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/program.png",
+        "source": "/Users/callon/StudioProjects/AutoPump/app/src/main/res/mipmap-hdpi/program.png"
     },
     {
         "merged": "/Users/callon/StudioProjects/AutoPump/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher0.png",

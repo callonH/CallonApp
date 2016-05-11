@@ -4,37 +4,29 @@
     api-level="19"
     density="xxhdpi"
     format="7"
-    timestamp="1462869905530606000"
-    verifier="COMPATIBLE" >
+    timestamp="1462933019723551000" >
 
     <task
         name="javac"
-        duration="283" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="1633" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="28" />
+        duration="0" />
     <task
         name="verifier"
-        duration="6" />
+        duration="0" />
 
     <artifact
-        location="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/callon/StudioProjects/AutoPump/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="1462869849344476000" >
+    <build timestamp="1462933019723551000" >
         <artifact
             location="/Users/callon/StudioProjects/AutoPump/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="1462869905530606000"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/callon/StudioProjects/AutoPump/app/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
